@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+.images img {
+  max-width: 300px;
+  margin: 10px;
+}
